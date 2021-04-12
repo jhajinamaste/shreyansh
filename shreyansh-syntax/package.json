@@ -1,0 +1,15 @@
+{
+  "name": "shreyansh-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "The most clean, beautiful, elegant and interactive syntax theme ever. Try it once and you will fall in love with the colorful syntax theme forever.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/jhajinamaste/shreyansh",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
