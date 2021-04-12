@@ -1,6 +1,6 @@
 # shreyansh-syntax theme
 
-The most clean, beautiful, elegant and interactive syntax theme ever. Try it once and you will fall in love with the colorful syntax theme forever.
+A syntax theme for ATOM you can't lay your eyes off. The most clean, beautiful, elegant and interactive syntax theme ever. Try it once and you will fall in love with this colorful syntax theme forever.
 
 HTML View
 
